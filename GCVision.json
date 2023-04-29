@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "raspimon",
+  "private_key_id": "677a4b476c69d9c997316a763012a0814e506964",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnbVjdGxAp27TC\n0o5p2Lpgt+pJyAFnWmKLgXmdIevHK8oaMmvSyxXXD1NdPxtWTYtCvjgUrYpeuZ9I\n94uoTkN2wU9Ea6cqzWWxl4Dy1uU6fDYXzJqu+XMniHuRp6/R113KvV9cKiAwFJtE\nkpwzDEUG5uTLLgAFhz7f0OIEld8ET51xmHPulJcuaODIV+a+WMCpIF5OYKkCzwcr\nJA+LB2LFhLnogVKNyNOVaH+Wd6+wVgFobjoIxTW1j72w4CTfYYg4OsqH/rj7V0rt\n9m/TGZWOclQ3acs3UNTbP6UxWR2rOTTUZ9aPHhHitv61+2hiiyRnAjJIAP7N3aUr\nPE5HlfMJAgMBAAECggEABHJKfGDGHp53n/7wik4XsQ7hWYFGzERhvpu7K5mlhd4b\nWXPCWlBLbbE6AQ12f+XCT4z2t1HejWJ3oPv2CQu/De3XWZVUVLYsv7kq0wgzAUkg\nNKSZ7RCx5rhgs78U08lY89PwruVtgmlhsEIGhPKL+MF0DRNVK9BqMo59GisSx638\nnLGtlLW1XLBocNyDT/a6GXlc3kpF5/Ucph1amueBo+P10eeszjaRBdtvEpdDJcpj\nDKeK7ypnKcQ/5wxbMniN8HF4b0S3LmyhTPpCkxvzGaA6DzTL4jIxEr38eNbtKzoC\n0gbh/jlwK828SLkbUFBRvJrJhdYyeyvIg5uTsLMlKQKBgQDRCssT+cdX6C5zxm1z\nT0OWsYAng4Hs9IteiGgHBr5sUkDPUCGU4iA2hoPWAK0MgeKP+TEJOaMqO2gV0UNB\nv7QdeXCmRA7uZwsTWC6EwoEvIFMNi+M09qlpUwry4RifCnJQ6nxn1mmFYLPYlZ3m\ncb5bIEsze9Q3CRwr/D1Oypbi1QKBgQDNCW9GKNO1Uw7xfZ7S9/BPXuJs0sqzyPwp\nAcAeipfd5wF6GHwrtLkgMefVx8A7oFzQ0AHBb41eL+PmC9jch8antkWjBEz5/kyy\n5jofFAxYX12czDMae3oBRgJcvHKAhIKi5Z/UC/cL2OEWBty637f3Zfd5FG83NEe7\n5vwo2g0hZQKBgQDDl128KxGh5tTP7vGp2pha/2nxjtKaa5WbtfXf3Sd/ItcRIuDI\n9Ws+mU3xhmBkO4NJQtfm0c8hTMRu5YYQltZoXaBRcYym9DMgvnmILpXBCnWrTyAg\nBkstCU5NQuBOru+XVk9guPWynnCoThWX8QUzLlwup8ZAWH3Lig+zEUtsoQKBgCwg\nE6ptruIe9eBSwJN2eGkcam4xDx6R6nKIxefMu9ItnMvB6TcetZiQJOyFCIHMiS0H\nFtmiQDI87Dbd5dXQApilSWdDza0fZTI7CdcWYXHDVEoiR/0zBZawkmGSzLGL0vFr\nqXHhAVGzYv1yjJ5K9zRu5UtRcn3W6nktxKamBp1hAoGAG/Rio6ziZ7QYrS0VH8d0\noyJQxlB42n3MOanMh37eL7UOMM1n+oaGsBik0wTjQTcxCWccyGPA/RT4ZtGeA+e4\nZI6pRUwN6tiqsAcwEASAjpB8UUFnmDJppmRLOXZGw1tmaUtVxxpEuPdol4YHp5lq\n5xSLteZWmB6hUtHthbZ8sBw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "raspimonsa@raspimon.iam.gserviceaccount.com",
+  "client_id": "114091179636778636214",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/raspimonsa%40raspimon.iam.gserviceaccount.com"
+}
